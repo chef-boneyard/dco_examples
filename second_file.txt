@@ -1,0 +1,3 @@
+here is a file named `second_file`
+
+This file is committed without a sign off line
